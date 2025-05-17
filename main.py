@@ -73,4 +73,3 @@ if st.button("Analyze"):
     b64 = base64.b64encode(pdf_bytes).decode()
     href = f'<a href="data:application/octet-stream;base64,{b64}" download="{name}_report.pdf">📥 Click here to Download PDF</a>'
     st.markdown(href, unsafe_allow_html=True)
-
