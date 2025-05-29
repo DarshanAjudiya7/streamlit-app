@@ -1,101 +1,102 @@
 
-# 🚀 Streamlit App – Intelligent Data Interaction Made Simple! 🧠📊
+# 📊 Student Marks Analyzer – Analyze, Visualize, & Export 📈✨
 
-![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-red?style=for-the-badge&logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit)
 ![License](https://img.shields.io/github/license/DarshanAjudiya7/streamlit-app?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/DarshanAjudiya7/streamlit-app?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/DarshanAjudiya7/streamlit-app?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen?style=for-the-badge)
 
-> ✨ A sleek and interactive web application built using Streamlit that showcases the power of Python for real-time data interaction. Whether you're a data geek 🤓, a developer 👨‍💻, or just Streamlit-curious 🌈 — this app has something for everyone!
-
----
-
-## 🔥 Live Demo
-
-🎯 **Try it out now**: [🔗 Live App Link](https://share.streamlit.io/) *(Replace with your Streamlit Share link)*
+> A smart and interactive web app that lets you enter, analyze, visualize, and export student marks 📚🎓 — all in one place!
 
 ---
 
-## 🧰 Features
+## 🚀 Live Demo
 
-✅ Super easy UI/UX — even for beginners  
-✅ Interactive widgets for real-time input ⚙️  
-✅ Fast performance powered by Python 🚀  
-✅ Fully responsive 📱  
-✅ Open source and customizable 💡  
+🎯 **Try it out now** 👉 [marksanalyser.streamlit.app](https://marksanalyser.streamlit.app/)
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 Features
 
-| Tech        | Description                  |
-|-------------|------------------------------|
-| 🐍 Python   | The brain behind the app     |
-| 🧼 Streamlit | Simple and fast UI building  |
-| 📦 Pandas   | Data manipulation like a pro |
-| 📈 Matplotlib / Plotly | Stunning data visualizations |
+- ✅ Clean and minimal UI with 🎯 real-time analysis
+- 📥 Marks input for 5 core subjects
+- 📊 Subject-wise bar graph visualization with pass line indicator
+- 🧮 Auto calculation of total, average & result
+- 📄 Generate and download professional **PDF reports**
+- 💡 100% beginner-friendly & open-source
 
 ---
 
-## 💻 Installation
+## 🧰 Tech Stack
 
-To run this project locally, follow these steps:
+| Tool        | Description                        |
+|-------------|------------------------------------|
+| 🐍 Python   | Core logic & computation engine     |
+| 🧼 Streamlit | App UI framework                   |
+| 📊 Matplotlib | Graph generation & visualization  |
+| 📄 ReportLab | PDF generation module              |
+
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Input Section – Enter Student Details & Marks
+![Input UI](./assets/Screenshot_Input.png)
+
+### 🔹 Analysis Output – Visual Stats & Pass Result
+![Analysis Result](./assets/Screenshot_Analysis.png)
+
+### 🔹 PDF Export – Clean Printable Report
+![PDF Report](./assets/Screenshot_Report.png)
+
+
+---
+
+## ⚙️ Installation & Run Locally
 
 ```bash
-# 1️⃣ Clone the repository
+# 1. Clone the repository
 git clone https://github.com/DarshanAjudiya7/streamlit-app.git
 cd streamlit-app
 
-# 2️⃣ Install dependencies
+# 2. Install required libraries
 pip install -r requirements.txt
 
-# 3️⃣ Run the Streamlit app
+# 3. Run the app
 streamlit run app.py
 ````
 
 ---
 
-## 🧪 Screenshots
+## 🎯 Use Cases
 
-![Screenshot 1](https://via.placeholder.com/800x400.png?text=Streamlit+App+Screenshot)
-*(Replace with your own screenshots from the app UI)*
-
----
-
-## 🧠 Use Cases
-
-💼 Data dashboards for business
-📚 Educational tools and demos
-📊 Real-time visual analytics
-⚡ Quick POCs for ML models
+* 💻 Academic project showcase
+* 📖 School/college internal tools
+* 📈 Teachers’ digital mark register
+* 🧪 ML/DS educational demos
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribute
 
-Contributions are welcome! 🌍✨
-Here’s how you can help:
-
-1. Fork the repo 🍴
-2. Create a new branch 🌿
-3. Make your changes ✨
-4. Submit a PR 🚀
+Contributions are warmly welcome! 🌍
+Just fork 🍴 → code ✍️ → pull request 🔃 → merge ✅
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License. 📜
-Feel free to use, modify, and share!
+This project is licensed under the **MIT License** 🧾
+Feel free to use, modify, and share 💙
 
 ---
 
-## 🧑‍💻 Author
+## 👨‍💻 Author
 
 Made with 💙 by **Darshan Ajudiya**
-🔗 [GitHub](https://github.com/DarshanAjudiya7) • 🌐 [Portfolio](#) *(Add if available)*
+🔗 [GitHub Profile](https://github.com/DarshanAjudiya7)
 
 ---
 
-> 💬 *“Good software, like wine, takes time. But a great UI makes the first sip unforgettable.”* 🍷✨
+> ✨ *“Simplify marks analysis. Visualize success. One click at a time.”* 📚📊
+
 
